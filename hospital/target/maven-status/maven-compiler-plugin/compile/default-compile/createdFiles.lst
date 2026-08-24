@@ -1,0 +1,8 @@
+hospital\model\Inpatient.class
+hospital\service\BedUnavailableException.class
+hospital\model\Patient.class
+hospital\service\HospitalService.class
+hospital\app\Main.class
+hospital\model\Bed.class
+hospital\model\PatientCategory.class
+hospital\service\DuplicatePatientException.class
